@@ -9,6 +9,23 @@
 
 ---
 
+### 💻 About Me
+
+Hey there! I'm **Dexi**, a curious and caffeinated full stack dev ☕  
+I code, break stuff, learn, rebuild, and repeat — always looking to blend logic with creativity 🧠💥  
+Currently deep diving into **LLMs**, **React magic**, and building **AI-powered tools** that actually solve real-world problems.
+
+---
+
+### 🧠 Currently Geeking Out On
+- Building GenAI agents that talk like humans 🤖  
+- Mastering System Design and Scalable Architectures 🏗️  
+- Exploring Next.js App Router + Server Actions ⚡  
+- Hacking around with OpenAI + LangChain + Pinecone stack 🔍  
+- Learning clean frontend patterns using TypeScript + React ⚛️  
+
+---
+
 ### 🔧 Tech Stack
 
 <p align="left">
@@ -37,14 +54,10 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Summary Card (Aesthetic Vibes Only)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Dexi's GitHub stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="Dexi's GitHub streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-username&theme=tokyonight" />
 </p>
 
 ---
@@ -54,7 +67,7 @@
 - 🐦 [Twitter](https://twitter.com/) (soon™)
 - 💼 [LinkedIn](https://www.linkedin.com/) (drop your updated profile)
 - 🌐 Portfolio: *coming soon*
-- 📬 Open to collaborations & new ideas!
+- 🧠 Open to collabs, convos, and & cool AI ideas!
 
 ---
 
