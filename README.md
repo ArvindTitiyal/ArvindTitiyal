@@ -77,5 +77,5 @@ Currently deep diving into **LLMs**, **React magic**, and building **AI-powered 
 </p>
 
 <p align="center">
-  🚀 Always hungry to build, break, and rebuild better.
+  🚀Built with ☕, 🔥, and a bit of chaotic energy.
 </p>
