@@ -17,15 +17,6 @@ Currently deep diving into **LLMs**, **React magic**, and building **AI-powered 
 
 ---
 
-### 🧠 Currently Geeking Out On
-- Building GenAI agents that talk like humans 🤖  
-- Mastering System Design and Scalable Architectures 🏗️  
-- Exploring Next.js App Router + Server Actions ⚡  
-- Hacking around with OpenAI + LangChain + Pinecone stack 🔍  
-- Learning clean frontend patterns using TypeScript + React ⚛️  
-
----
-
 ### 🛠️ Tech Stack
 
 <p align="left">
@@ -44,14 +35,15 @@ Currently deep diving into **LLMs**, **React magic**, and building **AI-powered 
 
 ---
 
-### 🧠 Interests & Work
+### 🧠 What I'm Geeking Out On
 
-- 🧱 Full Stack Development using **.NET**, **React**, and **Next.js**
-- 🧬 Exploring **Generative AI**, **LLMs**, and **Agentic Architectures**
-- 🛠 Building tools that scale productivity and creativity
-- 💡 System Design, Clean Architecture, and Dev Best Practices
-- 🔭 Currently working on: AI integrations with Industrial Platforms
-- 📚 Learning every day, one project at a time
+- 🤖 GenAI agents that talk like humans — OpenAI, LangChain, Pinecone  
+- ⚡ Full Stack dev with .NET, React, Next.js (App Router + Server Actions)  
+- 🧱 System Design, Clean Architecture, and scalable patterns  
+- 🛠 Building tools that scale productivity + creativity  
+- 🧬 LLMs, Agentic AI, and Industrial AI integrations  
+- ⚛️ Clean frontend patterns with TypeScript + React  
+- 📚 Learning every day, one weird bug and one cool project at a time  
 
 ---
 
@@ -66,7 +58,7 @@ Currently deep diving into **LLMs**, **React magic**, and building **AI-powered 
 ### 🔗 Let’s Connect
 
 - 🐦 [Twitter](https://twitter.com/) (soon™)
-- 💼 [LinkedIn](https://www.linkedin.com/) (drop your updated profile)
+- 💼 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/arvind-titiyal-12a116165/))
 - 🌐 Portfolio: *coming soon*
 - 🧠 Open to collabs, convos, and & cool AI ideas!
 
