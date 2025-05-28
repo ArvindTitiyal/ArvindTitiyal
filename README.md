@@ -58,7 +58,7 @@ Currently deep diving into **LLMs**, **React magic**, and building **AI-powered 
 ### 📊 GitHub Summary Card (Aesthetic Vibes Only)
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-username&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArvindTitiyal&theme=tokyonight" />
 </p>
 
 ---
