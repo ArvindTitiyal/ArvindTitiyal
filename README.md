@@ -58,7 +58,7 @@ Currently deep diving into **LLMs**, **React magic**, and building **AI-powered 
 ### 🔗 Let’s Connect
 
 - 🐦 [Twitter](https://twitter.com/) (soon™)
-- 💼 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/arvind-titiyal-12a116165/))
+- 💼 [LinkedIn]([https://www.linkedin.com/in/arvind-titiyal-12a116165/])
 - 🌐 Portfolio: *coming soon*
 - 🧠 Open to collabs, convos, and & cool AI ideas!
 
