@@ -1,6 +1,6 @@
 <!-- Profile README for Dexi -->
 
-<h1 align="center">Hi 👋, I'm Dexi</h1>
+<h1 align="center">Hi 👋, I'm Arvind</h1>
 <h3 align="center">A Passionate Software Developer | GenAI Enthusiast | Problem Solver</h3>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 ### 💻 About Me
 
-Hey there! I'm **Dexi**, a curious and caffeinated full stack dev ☕  
+Hey there! I'm **Arvind**, a curious and caffeinated full stack dev ☕  
 I code, break stuff, learn, rebuild, and repeat — always looking to blend logic with creativity 🧠💥  
 Currently deep diving into **LLMs**, **React magic**, and building **AI-powered tools** that actually solve real-world problems.
 
