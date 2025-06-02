@@ -4,7 +4,7 @@
 <h3 align="center">A Passionate Software Developer | GenAI Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=4DC5DD&center=true&width=435&lines=Code.+Build.+Innovate.+Repeat.;Lover+of+Clean+Code+%26+System+Design;Chasing+Excellence+with+Every+Line+of+Code." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=4DC5DD&center=true&width=435&lines=Code.+Build.+Innovate.+Repeat.;Lover+of+Clean+Code+%26+System+Design;Chasing+Excellence+with+Every+L+O+C." alt="Typing SVG" />
 </p>
 
 ---
